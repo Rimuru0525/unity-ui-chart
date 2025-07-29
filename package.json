@@ -14,9 +14,9 @@
   },
   "samples": [
     {
-      "displayName": "Basic Example",
+      "displayName": "Demo Scene",
       "description": "Basic chart implementation example",
-      "path": "Samples~/BasicExample"
+      "path": "Samples/Democene"
     }
   ]
 }

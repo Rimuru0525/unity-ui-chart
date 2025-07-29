@@ -1,0 +1,22 @@
+{
+  "name": "com.rimuru0525.uitoolkit-chart",
+  "displayName": "UI Toolkit Chart",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "A customizable chart component for Unity UI Toolkit with support for multiple datasets and interactive features.",
+  "keywords": ["ui", "uitoolkit", "chart", "graph", "visualization"],
+  "category": "UI",
+  "dependencies": {},
+  "author": {
+    "name": "Chikara Sugisaki",
+    "email": "chikasugi@gmail.com",
+    "url": "https://github.com/Rimuru0525"
+  },
+  "samples": [
+    {
+      "displayName": "Basic Example",
+      "description": "Basic chart implementation example",
+      "path": "Samples~/BasicExample"
+    }
+  ]
+}

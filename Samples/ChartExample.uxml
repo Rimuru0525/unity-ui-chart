@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/ChartStyles.uss?fileID=7433441132597879392&amp;guid=3ec84373ef1a52645a845a7783feb24f&amp;type=3#ChartStyles" />
+    <ui:VisualElement name="container" class="chart-container">
+        <ChartElement name="chart" y-axis-divisions="5" x-axis-divisions="10" line-width="2" show-grid="true" grid-color="#4D4D4D4D" text-color="#FFFFFF" class="chart-element" />
+    </ui:VisualElement>
+</ui:UXML>
